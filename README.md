@@ -8,6 +8,9 @@ AI model for sports image analysis using Roboflow API.
 3. train the model inside the website.
 4. copy your API key.
 
+## Link of dataSet:
+https://universe.roboflow.com/roboflow-jvuqo/football-players-detection-3zvbc
+
 ## lunch the code:
 
 - replace your key with `YOUR_API_KEY` and the project name.
