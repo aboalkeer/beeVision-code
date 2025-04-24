@@ -20,3 +20,8 @@ https://universe.roboflow.com/roboflow-jvuqo/football-players-detection-3zvbc
 
 ```bash
 pip install roboflow
+
+
+
+## Figma demo:
+https://www.figma.com/proto/JGaZhEKHZmslfxFuBnhboo/Netflix-Video-UI--Community-?node-id=102-330&t=LdWupBdCccbkSnAw-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=102%3A330&show-proto-sidebar=1
